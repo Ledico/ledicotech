@@ -1,8 +1,8 @@
 <h1 align="center">Ledicotech.ch
 </h1>
 <div align="center">
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<img src="https://img.shields.io/badge/Status-In%20Development-orange" alt="In Development">
+<a href="#"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Status-In%20Development-orange" alt="In Development"></a>
 <a href="https://ledicotech.ch"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fledicotech.ch"></a>
 <a href="https://www.instagram.com/Ledico_04" ><img src="https://img.shields.io/badge/Instagram-@Ledico_04-%23E4405F?style=social&logo=Instagram" alt="Instagram"> </a>
 <br>
