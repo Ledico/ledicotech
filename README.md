@@ -9,7 +9,7 @@
 
 <i>My small personal website and portfolio</i>
 
-<img alt="Ledicotech Logo" src="assets/Favicon.png"> </img>
+<img alt="Ledicotech Logo" src="assets/homepage.png"> </img>
 
 </div>
 
