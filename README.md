@@ -13,9 +13,17 @@
 
 </div>
 
+## Checklist
+
+| Status | Thing           |
+|:------:|:----------------|
+|   ✅    | Struktur        |
+|   ✅    | blabla          |
+|   ✅    | blabla          |
+|   ❔    | blabla          |
+
 ### Contents:
 ---
-
 
 #### Minimalistic ✨
 - [Caneco](https://github.com/caneco/)
